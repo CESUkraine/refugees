@@ -10,6 +10,7 @@ Each directory contains data (in SAV format), codebooks, and questionnaires for 
 | Wave 2 |   Apr-May 2023      | [Access (ENG)][wave2eng] | [Access (UKR)][wave2ukr] | 404 |
 | Wave 3 | Dec 2023 - Jan 2024 | [Access (ENG)][wave3eng] | [Access (UKR)][wave3ukr] | 1000 |
 | Wave 4 |   Nov-Dec 2024      | [Access (ENG)][wave4eng] | [Access (UKR)][wave4ukr] | 1000 |
+| Wave 5 | Dec 2025 - Jan 2026 | [Access (ENG)][wave5eng] | [Access (UKR)][wave5ukr] | 1173 |
 
 
 [wave1eng]: https://ces.org.ua/en/ukrainian-refugees-who-are-they-where-did-they-come-from-and-how-to-return-them/
@@ -20,3 +21,5 @@ Each directory contains data (in SAV format), codebooks, and questionnaires for 
 [wave3ukr]: https://ces.org.ua/ukrainian_refugees_third_wave_research/
 [wave4eng]: https://ces.org.ua/en/refugees-fourth-wave/
 [wave4ukr]: https://ces.org.ua/refugees-fourth-wave/
+[wave5eng]: https://ces.org.ua/en/ukrainian-refugees-fifth-wave/
+[wave5ukr]: https://ces.org.ua/ukrainian-refugees-fifth-wave/
