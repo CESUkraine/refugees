@@ -1,8 +1,8 @@
 # Ukrainian Refugees Research
 
-This repository contains the data behind _The Centre for Economic Strategy's_ research on Ukrainian refugees. The latest release of the refugee study is available on our website in [English][wave4eng] and in [Ukrainian][wave4ukr].
+This repository contains the data behind _The Centre for Economic Strategy's_ research on Ukrainian refugees. The latest release of the refugee study is available on our website in [English][wave5eng] and in [Ukrainian][wave5ukr].
 
-Each directory contains data (in SAV format), codebooks, and questionnaires for each of the study's four waves.
+Each directory contains data (in SAV format), codebooks, and questionnaires for each of the study's five waves. The directory containing the fifth wave also includes a dump of R scripts used to analyse the survey data.
 
 |  Wave  | Fieldwork Period    |  Publication (ENG) | Publication (UKR) | Sample Size |
 |--------|:--------------------|:------------------:|:-----------------:|:-----------:|
